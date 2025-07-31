@@ -16,7 +16,7 @@ The **NammaYatri Trips Dashboard** is a data analytics and visualization project
 ## Dashboard Preview
 <img width="1326" height="741" alt="Screenshot 2025-07-31 215448" src="https://github.com/user-attachments/assets/871bdc91-40a7-42c4-9291-deb69df1452d" />
 
-
+---
 
 ### ✅ **KPIs Displayed**
 
@@ -28,7 +28,7 @@ The **NammaYatri Trips Dashboard** is a data analytics and visualization project
 - OTP Confirmations  
 - Conversion Rate  
 - Average Fare & Distance  
-
+---
 ### 📊 **Visual Analytics**
 
 - **Line Charts**: Trips vs Duration, Fare vs Duration, Distance Trends  
@@ -37,6 +37,7 @@ The **NammaYatri Trips Dashboard** is a data analytics and visualization project
 - **Gauge**: Conversion Rate  
 - **Filters**: Duration, Assembly (region)
 
+---
 
 ## 🛠️ Tech Stack
 🔷 SQL (MySQL/PostgreSQL):
@@ -218,6 +219,8 @@ SELECT SUM(searches_for_quotes) * 100.0 / SUM(searches) FROM trips_details;
 
 - Internal KPIs for company decision-making
 
+---
+
 ## 🔧 Future Enhancements
 - Add real-time refresh with cloud database integration
 
@@ -226,5 +229,7 @@ SELECT SUM(searches_for_quotes) * 100.0 / SUM(searches) FROM trips_details;
 - Include forecasting for trip volumes and fare trends
 
 - Incorporate ML models to predict cancellations or fare anomalies
+
+---  
 
 
