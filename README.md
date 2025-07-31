@@ -230,6 +230,3 @@ SELECT SUM(searches_for_quotes) * 100.0 / SUM(searches) FROM trips_details;
 
 - Incorporate ML models to predict cancellations or fare anomalies
 
----  
-
-
